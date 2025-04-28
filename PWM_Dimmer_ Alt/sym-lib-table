@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name PWM_Dimmer-rescue)(type Legacy)(uri ${KIPRJMOD}/PWM_Dimmer-rescue.lib)(options "")(descr ""))
+  (version 7)
+  (lib (name "PWM_Dimmer-rescue")(type "KiCad")(uri "${KIPRJMOD}/PWM_Dimmer-rescue.kicad_sym")(options "")(descr ""))
 )
